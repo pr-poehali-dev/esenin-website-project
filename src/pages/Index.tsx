@@ -567,6 +567,9 @@ const Index = () => {
             <p className="text-sm opacity-60">
               © 2025 Образовательный портал о С.А. Есенине. Для школьников и любителей поэзии.
             </p>
+            <p className="text-sm opacity-50 mt-2">
+              Создатель сайта: Глеб Кузнецов
+            </p>
           </div>
         </div>
       </footer>
